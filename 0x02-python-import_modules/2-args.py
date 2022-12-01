@@ -10,4 +10,3 @@ if __name__ == "__main__":
     while (i <= args):
         print(f"{i}: {argv[i]}")
         i += 1
-
